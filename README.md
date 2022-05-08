@@ -20,10 +20,13 @@
 
 ---
 
-<div align="center">
-  <a href="https://github.com/PricilaOliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PricilaOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PricilaOliveira&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+| [![pricilaoliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=pricilaoliveira&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/pricilaoliveira?tab=repositories) | [![pricilaoliveira's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pricilaoliveira&layout=compact&hide_border=true&theme=jolly)](https://github.com/pricilaoliveira?tab=repositories) |
+|:-:|:-:|
+  
+  <p align="center">
+	<img alt="pricilaoliveira's visitors" src="https://komarev.com/ghpvc/?username=pricilaoliveira&color=8c36db&style=flat&label=visitors" />
+	<img alt="pricilaoliveira's followers" src="https://img.shields.io/github/followers/pricilaoliveira?color=blueviolet" />
+	<img alt="pricilaoliveira's stars" src="https://img.shields.io/github/stars/pricilaoliveira?color=blueviolet" />
+</p>
   
   ---
